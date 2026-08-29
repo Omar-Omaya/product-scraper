@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Infinix Hot 40i 8GB RAM 256GB ROM 6.56\" Smartphone - Starlit Black",
+      "price": "5499.00",
+      "image_url": "https://picsum.photos/seed/infinix-hot-40i/400/400",
+      "created_at": "2026-08-28T08:12:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy A05s 4GB/128GB 6.7\" Dual SIM 50MP Camera",
+      "price": "6899.00",
+      "image_url": "https://picsum.photos/seed/galaxy-a05s/400/400",
+      "created_at": "2026-08-28T09:40:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Tecno Spark 20 Pro 8GB RAM 256GB 108MP Camera - Sunset Blush",
+      "price": "7299.00",
+      "image_url": "https://picsum.photos/seed/tecno-spark-20-pro/400/400",
+      "created_at": "2026-08-28T11:05:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Xiaomi Redmi 13C 6GB/128GB 50MP Triple Camera 5000mAh",
+      "price": "4999.00",
+      "image_url": "https://picsum.photos/seed/redmi-13c/400/400",
+      "created_at": "2026-08-28T13:22:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Oraimo FreePods 4 ANC True Wireless Earbuds with 4 Mics",
+      "price": "1299.00",
+      "image_url": "https://picsum.photos/seed/oraimo-freepods-4/400/400",
+      "created_at": "2026-08-28T15:47:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Anker PowerCore 20000mAh Power Bank 20W PD Fast Charging",
+      "price": "2149.00",
+      "image_url": "https://picsum.photos/seed/anker-powercore-20000/400/400",
+      "created_at": "2026-08-28T18:03:00Z"
+    },
+    {
+      "id": 7,
+      "title": "HP Pavilion 15 Core i5 12th Gen 8GB 512GB SSD 15.6\" FHD Laptop",
+      "price": "28999.00",
+      "image_url": "https://picsum.photos/seed/hp-pavilion-15/400/400",
+      "created_at": "2026-08-29T07:18:00Z"
+    },
+    {
+      "id": 8,
+      "title": "JBL Tune 510BT Wireless On-Ear Headphones Pure Bass 40h Battery",
+      "price": "1899.00",
+      "image_url": "https://picsum.photos/seed/jbl-tune-510bt/400/400",
+      "created_at": "2026-08-29T10:26:00Z"
+    }
+  ]
+}
