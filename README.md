@@ -4,8 +4,6 @@ A small scraping service: a Laravel backend scrapes products from an eCommerce
 store, a Go microservice rotates user-agents (mimicking proxy rotation), and a
 Next.js frontend shows the products in a grid that refreshes every 30 seconds.
 
-For how it all fits together and why, see [ARCHITECTURE.md](ARCHITECTURE.md).
-
 ## Requirements
 
 - PHP 8.2+ and Composer
